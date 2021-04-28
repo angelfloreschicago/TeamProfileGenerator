@@ -19,7 +19,7 @@
 
 ## Video Demo
 
-[Demo]()
+[Demo](https://drive.google.com/file/d/1ajfxU8c_X414Cgq8t0RSeqE0TsWf-DRI/view?usp=sharing)
 Click "Demo" for video demo. 
 
 ## License
@@ -27,3 +27,6 @@ Click "Demo" for video demo.
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Screenshots of README Generator Functionality
+
+<img src="./images/demo_screenshot_team.png">
+<img src="./images/test_team_screenshot.png">
