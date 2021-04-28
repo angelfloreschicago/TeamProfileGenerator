@@ -3,24 +3,21 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "dependencies": {
-    "inquirer": "^8.0.0"
-  },
-  "devDependencies": {
-    "jest": "^26.6.3"
+  "directories": {
+    "lib": "lib",
+    "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/angelfloreschicago/TeamProfileGenerator.git"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/angelfloreschicago/TeamProfileGenerator/issues"
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.0.0"
   },
-  "homepage": "https://github.com/angelfloreschicago/TeamProfileGenerator#readme"
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
 }
