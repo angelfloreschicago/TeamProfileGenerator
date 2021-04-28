@@ -2,8 +2,9 @@
 
 ## Description
     This command line application generates a an HTML web file. This allows companies to save time
-    by just answering a few questions about their new employees that are joining a new team. This application
-    deploys with NodeJS and was created using JavaScript and the Inquirer package.
+    by just answering a few questions about their new employees that are joining a new team. 
+    This application deploys with NodeJS and was created using JavaScript, Inquirer package and 
+    Jest for testing. 
 
 ## Test
     npm run test    
